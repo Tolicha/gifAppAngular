@@ -1,6 +1,8 @@
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+This project consist on a Web Page that uses Giphy's API to create a Searcher that shows up to 10 results for a given query and stores 10 last searches in borwser's LocalStorage. For it to work propperly is necessary to create and environment key called 'api_key_giphy' wich value should be an API key from 
+https://developers.giphy.com/
 
 ## Development server
 
