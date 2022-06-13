@@ -23,4 +23,8 @@ This project uses an API provided by Giphy.
 
 ## Parsing Data
 
-For parsing the JSON data provided by Giphy's API https://app.quicktype.io has been used.
+For parsing the JSON data provided by Giphy's API, resources from https://app.quicktype.io have been used.
+
+## Animation with CSS
+
+For the animations of the results fade-In resources from https://animate.style/ have been used.
